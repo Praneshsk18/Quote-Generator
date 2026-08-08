@@ -1,6 +1,6 @@
 # Spirited Away — Quote Generator
 
-A magical Angular quote generator inspired by *Spirited Away* (千と千尋の神隠し). Summon random wisdom from the spirit realm using the [Quotable API](https://github.com/lukePeavey/quotable).
+A magical Angular quote generator inspired by Spirited Away . Summon random wisdom from the spirit realm.
 
 ## Features
 
@@ -9,6 +9,8 @@ A magical Angular quote generator inspired by *Spirited Away* (千と千尋の�
 - Random quotes from `api.quotable.io`
 - Bathhouse scroll UI, torii gate header, lantern glow, and soot sprite loading animation
 - Responsive layout with loading and error states
+
+Deployed link: [Click here](https://quote-generator-topaz-kappa.vercel.app/)
 
 ## Getting Started
 
