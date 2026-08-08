@@ -1,4 +1,4 @@
-# Spirited Away — Quote Generator
+# Quote Generator
 
 A magical Angular quote generator inspired by Spirited Away . Summon random wisdom from the spirit realm.
 
